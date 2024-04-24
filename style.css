@@ -1,0 +1,28 @@
+.bordes{
+    border: solid 1px black; /*Estos es un borde de 1 pixel de color negro*/
+    height: 200px; /* esta es altura de la caja*/
+}
+.fondo-rojo{
+background: red;
+}
+.fondo-azul{
+background: blue;
+}
+.fondo-verde{
+background: green;
+}
+.fondo-amarillo{
+    background: yellow;
+}
+.fondo-verde{
+    background-color: blue;
+}
+.fondo-rojo{
+    background-color: red;
+}
+.fondo-negro{
+    background-color: black;
+}
+.fondorosado{
+    background-color: blueviolet;
+}
